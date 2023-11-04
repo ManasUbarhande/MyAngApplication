@@ -1,0 +1,98 @@
+{
+  "user": [
+    {
+      "id": "Manas10",
+      "name": "Manas",
+      "password": "abcd",
+      "email": "manasubarhande2017@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "test1",
+      "name": "Krushna",
+      "password": "abcd",
+      "email": "admin@123",
+      "gender": "male",
+      "ratings": 4,
+      "isactive": true
+    },
+    {
+      "id": "test2",
+      "name": "Mayur",
+      "password": "abcd",
+      "email": "admin@123",
+      "gender": "male",
+      "ratings": 3,
+      "isactive": true
+    },
+    {
+      "id": "test3",
+      "name": "Krishna",
+      "password": "abcd",
+      "email": "admin@123",
+      "gender": "male",
+      "ratings": 4,
+      "isactive": true
+    },
+    {
+      "id": "test4",
+      "name": "Saloni",
+      "password": "abcd",
+      "email": "admin@123",
+      "gender": "female",
+      "ratings": 4,
+      "isactive": true
+    },
+    {
+      "id": "Sandip",
+      "name": "user",
+      "password": "abcd",
+      "email": "admin@123",
+      "gender": "male",
+      "ratings": 3,
+      "isactive": true
+    },
+    {
+      "id": "Avinas",
+      "name": "test",
+      "password": "asdf",
+      "email": "Test@123",
+      "gender": "male",
+      "ratings": 3,
+      "isactive": false
+    },
+    {
+      "id": "vai04",
+      "name": "Vaishnavi",
+      "password": "mns",
+      "email": "vmu@10",
+      "gender": "female",
+      "ratings": 5,
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": 1,
+      "name": "1 Star"
+    },
+    {
+      "code": 2,
+      "name": "2 Stars"
+    },
+    {
+      "code": 3,
+      "name": "3 Stars"
+    },
+    {
+      "code": 4,
+      "name": "4 Stars"
+    },
+    {
+      "id": 5,
+      "name": "5 Stars"
+    }
+  ]
+}
